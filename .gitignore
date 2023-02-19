@@ -1,0 +1,16 @@
+# python
+__pycache__/
+
+# vevn
+bin/
+include/
+lib/
+lib64/
+lib64
+share/
+pyvenv.cfg
+
+# others
+ascii-art.txt
+temp.*
+test.*
