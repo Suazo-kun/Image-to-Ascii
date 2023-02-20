@@ -1,3 +1,6 @@
+__version__ = "0.1"
+__author__ = "Suazo-kun (suazokun@gmail.com)"
+
 from PIL import Image
 
 TABLE = [
